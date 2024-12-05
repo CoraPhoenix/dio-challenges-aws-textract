@@ -1,6 +1,6 @@
 # dio-challenges-aws-textract
 Project made during DIO's "Nexa - Análise Avançada de Imagens e Texto com IA na AWS" Bootcamp, under the section "Transcrevendo uma Imagem em Texto com AWS Textract". \
-This project has two sections: Using AWS Textract on Web and Using AWS Textract with Python 3 (boto3)
+This project has two sections: Using AWS Textract on Web and Using AWS Textract with Python 3 SDK (boto3)
 
 ----------------
 
@@ -47,6 +47,6 @@ The obtained result was the following:
 
 ----------------------
 
-# 2. Using AWS Textract with Python 3 (boto3)
+# 2. Using AWS Textract with Python 3 SDK (boto3)
 
 I also used Amazon Textract from Python's `boto3` client. I generated the `results.json` file after running `main.py`, which also prints the extracted text.
